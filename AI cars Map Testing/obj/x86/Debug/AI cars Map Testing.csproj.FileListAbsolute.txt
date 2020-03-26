@@ -67,3 +67,4 @@ C:\Users\Jonas Laptop\OneDrive\Projects\AI cars Map Testing\AI cars Map Testing\
 C:\Users\Jonas Laptop\OneDrive\Projects\AI cars Map Testing\AI cars Map Testing\obj\x86\Debug\AI cars Map Testing.csproj.CopyComplete
 C:\Users\Jonas Laptop\OneDrive\Projects\AI cars Map Testing\AI cars Map Testing\obj\x86\Debug\AI cars Map Testing.exe
 C:\Users\Jonas Laptop\OneDrive\Projects\AI cars Map Testing\AI cars Map Testing\obj\x86\Debug\AI cars Map Testing.pdb
+C:\Users\mccra\OneDrive\Projects\AI cars Map Testing\AI cars Map Testing\bin\Windows\x86\Debug\Content\Min 11.xnb

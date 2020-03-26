@@ -12,6 +12,7 @@ namespace AI_cars_Map_Testing
         GraphicsDeviceManager graphics;
         SpriteBatch spriteBatch;
 
+        Texture2D tex;
         
         Vector3 CamT;
         Vector3 CamPos;
@@ -88,6 +89,7 @@ namespace AI_cars_Map_Testing
             Effect = new BasicEffect(GraphicsDevice);
             Effect.Alpha = 1.0f;
             Effect.LightingEnabled = false;
+           
 
             //generate geometry
             triangleVertices = new VertexPositionColor[18];
@@ -121,11 +123,15 @@ namespace AI_cars_Map_Testing
             blocks[4].Position = new Vector3(20, 0, 20);
             blocks[5].Position = new Vector3(40, 0, 20);
 
+            blocks[0].TextureCoordinate = new Vector2(0, 0);
+            blocks[1].TextureCoordinate = new Vector2(0, 1);
+            blocks[2].TextureCoordinate = new Vector2(1, 1);
+            blocks[3].TextureCoordinate = new Vector2(1, 1);
+            blocks[4].TextureCoordinate = new Vector2(0, 0);
+            blocks[5].TextureCoordinate = new Vector2(1, 0);
 
             vertexBuffer = new VertexBuffer(GraphicsDevice, typeof(VertexPositionColor), 18, BufferUsage.WriteOnly);
             vertexBuffer.SetData<VertexPositionColor>(triangleVertices);
-
-
 
             base.Initialize();
         }
@@ -134,6 +140,7 @@ namespace AI_cars_Map_Testing
         {
             // Create a new SpriteBatch, which can be used to draw textures.
             spriteBatch = new SpriteBatch(GraphicsDevice);
+            tex = Content.Load<Texture2D>("Min 11");
 
             // TODO: use this.Content to load your game content here
         }
@@ -218,6 +225,8 @@ namespace AI_cars_Map_Testing
             basicEffect.View = viewMatrix;
             basicEffect.World = worldMatrix;
 
+            Effect.TextureEnabled = true;
+            Effect.Texture = tex;
             Effect.Projection = projectionMatrix;
             Effect.View = viewMatrix;
             Effect.World = worldMatrix;
