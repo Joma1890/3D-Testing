@@ -1,0 +1,69 @@
+C:\Users\Jonas Laptop\source\repos\AI cars Map Testing\AI cars Map Testing\bin\Windows\x86\Debug\AI cars Map Testing.exe
+C:\Users\Jonas Laptop\source\repos\AI cars Map Testing\AI cars Map Testing\bin\Windows\x86\Debug\AI cars Map Testing.pdb
+C:\Users\Jonas Laptop\source\repos\AI cars Map Testing\AI cars Map Testing\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\Jonas Laptop\source\repos\AI cars Map Testing\AI cars Map Testing\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Jonas Laptop\source\repos\AI cars Map Testing\AI cars Map Testing\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\Jonas Laptop\source\repos\AI cars Map Testing\AI cars Map Testing\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\Jonas Laptop\source\repos\AI cars Map Testing\AI cars Map Testing\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\Jonas Laptop\source\repos\AI cars Map Testing\AI cars Map Testing\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\Jonas Laptop\source\repos\AI cars Map Testing\AI cars Map Testing\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\Jonas Laptop\source\repos\AI cars Map Testing\AI cars Map Testing\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\Jonas Laptop\source\repos\AI cars Map Testing\AI cars Map Testing\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\Jonas Laptop\source\repos\AI cars Map Testing\AI cars Map Testing\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Jonas Laptop\source\repos\AI cars Map Testing\AI cars Map Testing\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\Jonas Laptop\source\repos\AI cars Map Testing\AI cars Map Testing\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\Jonas Laptop\source\repos\AI cars Map Testing\AI cars Map Testing\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\Jonas Laptop\source\repos\AI cars Map Testing\AI cars Map Testing\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\Jonas Laptop\source\repos\AI cars Map Testing\AI cars Map Testing\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\Jonas Laptop\source\repos\AI cars Map Testing\AI cars Map Testing\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\Jonas Laptop\source\repos\AI cars Map Testing\AI cars Map Testing\obj\x86\Debug\AI cars Map Testing.csprojAssemblyReference.cache
+C:\Users\Jonas Laptop\source\repos\AI cars Map Testing\AI cars Map Testing\obj\x86\Debug\AI cars Map Testing.csproj.CoreCompileInputs.cache
+C:\Users\Jonas Laptop\source\repos\AI cars Map Testing\AI cars Map Testing\obj\x86\Debug\AI cars Map Testing.csproj.CopyComplete
+C:\Users\Jonas Laptop\source\repos\AI cars Map Testing\AI cars Map Testing\obj\x86\Debug\AI cars Map Testing.exe
+C:\Users\Jonas Laptop\source\repos\AI cars Map Testing\AI cars Map Testing\obj\x86\Debug\AI cars Map Testing.pdb
+C:\Users\mccra\OneDrive\Projects\AI cars Map Testing\AI cars Map Testing\obj\x86\Debug\AI cars Map Testing.csprojAssemblyReference.cache
+C:\Users\mccra\OneDrive\Projects\AI cars Map Testing\AI cars Map Testing\obj\x86\Debug\AI cars Map Testing.csproj.CoreCompileInputs.cache
+C:\Users\mccra\OneDrive\Projects\AI cars Map Testing\AI cars Map Testing\obj\x86\Debug\AI cars Map Testing.exe
+C:\Users\mccra\OneDrive\Projects\AI cars Map Testing\AI cars Map Testing\obj\x86\Debug\AI cars Map Testing.pdb
+C:\Users\mccra\OneDrive\Projects\AI cars Map Testing\AI cars Map Testing\bin\Windows\x86\Debug\AI cars Map Testing.exe
+C:\Users\mccra\OneDrive\Projects\AI cars Map Testing\AI cars Map Testing\bin\Windows\x86\Debug\AI cars Map Testing.pdb
+C:\Users\mccra\OneDrive\Projects\AI cars Map Testing\AI cars Map Testing\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\mccra\OneDrive\Projects\AI cars Map Testing\AI cars Map Testing\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\mccra\OneDrive\Projects\AI cars Map Testing\AI cars Map Testing\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\mccra\OneDrive\Projects\AI cars Map Testing\AI cars Map Testing\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\mccra\OneDrive\Projects\AI cars Map Testing\AI cars Map Testing\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\mccra\OneDrive\Projects\AI cars Map Testing\AI cars Map Testing\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\mccra\OneDrive\Projects\AI cars Map Testing\AI cars Map Testing\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\mccra\OneDrive\Projects\AI cars Map Testing\AI cars Map Testing\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\mccra\OneDrive\Projects\AI cars Map Testing\AI cars Map Testing\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\mccra\OneDrive\Projects\AI cars Map Testing\AI cars Map Testing\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\mccra\OneDrive\Projects\AI cars Map Testing\AI cars Map Testing\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\mccra\OneDrive\Projects\AI cars Map Testing\AI cars Map Testing\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\mccra\OneDrive\Projects\AI cars Map Testing\AI cars Map Testing\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\mccra\OneDrive\Projects\AI cars Map Testing\AI cars Map Testing\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\mccra\OneDrive\Projects\AI cars Map Testing\AI cars Map Testing\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\mccra\OneDrive\Projects\AI cars Map Testing\AI cars Map Testing\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\mccra\OneDrive\Projects\AI cars Map Testing\AI cars Map Testing\obj\x86\Debug\AI cars Map Testing.csproj.CopyComplete
+C:\Users\Jonas Laptop\OneDrive\Projects\AI cars Map Testing\AI cars Map Testing\bin\Windows\x86\Debug\AI cars Map Testing.exe
+C:\Users\Jonas Laptop\OneDrive\Projects\AI cars Map Testing\AI cars Map Testing\bin\Windows\x86\Debug\AI cars Map Testing.pdb
+C:\Users\Jonas Laptop\OneDrive\Projects\AI cars Map Testing\AI cars Map Testing\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\Jonas Laptop\OneDrive\Projects\AI cars Map Testing\AI cars Map Testing\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Jonas Laptop\OneDrive\Projects\AI cars Map Testing\AI cars Map Testing\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\Jonas Laptop\OneDrive\Projects\AI cars Map Testing\AI cars Map Testing\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\Jonas Laptop\OneDrive\Projects\AI cars Map Testing\AI cars Map Testing\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\Jonas Laptop\OneDrive\Projects\AI cars Map Testing\AI cars Map Testing\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\Jonas Laptop\OneDrive\Projects\AI cars Map Testing\AI cars Map Testing\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\Jonas Laptop\OneDrive\Projects\AI cars Map Testing\AI cars Map Testing\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\Jonas Laptop\OneDrive\Projects\AI cars Map Testing\AI cars Map Testing\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\Jonas Laptop\OneDrive\Projects\AI cars Map Testing\AI cars Map Testing\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Jonas Laptop\OneDrive\Projects\AI cars Map Testing\AI cars Map Testing\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\Jonas Laptop\OneDrive\Projects\AI cars Map Testing\AI cars Map Testing\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\Jonas Laptop\OneDrive\Projects\AI cars Map Testing\AI cars Map Testing\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\Jonas Laptop\OneDrive\Projects\AI cars Map Testing\AI cars Map Testing\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\Jonas Laptop\OneDrive\Projects\AI cars Map Testing\AI cars Map Testing\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\Jonas Laptop\OneDrive\Projects\AI cars Map Testing\AI cars Map Testing\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\Jonas Laptop\OneDrive\Projects\AI cars Map Testing\AI cars Map Testing\obj\x86\Debug\AI cars Map Testing.csprojAssemblyReference.cache
+C:\Users\Jonas Laptop\OneDrive\Projects\AI cars Map Testing\AI cars Map Testing\obj\x86\Debug\AI cars Map Testing.csproj.CoreCompileInputs.cache
+C:\Users\Jonas Laptop\OneDrive\Projects\AI cars Map Testing\AI cars Map Testing\obj\x86\Debug\AI cars Map Testing.csproj.CopyComplete
+C:\Users\Jonas Laptop\OneDrive\Projects\AI cars Map Testing\AI cars Map Testing\obj\x86\Debug\AI cars Map Testing.exe
+C:\Users\Jonas Laptop\OneDrive\Projects\AI cars Map Testing\AI cars Map Testing\obj\x86\Debug\AI cars Map Testing.pdb
